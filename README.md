@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Flutter
+🔭 I’m currently learning Flutter & Golang
 
 
 ## 🌐 Socials:
