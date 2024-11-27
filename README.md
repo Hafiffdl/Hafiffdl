@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Flutter & MERN Stack
+🔭 I’m currently learning Flutter, Next Js & Typescript
 
 
 ## 🌐 Socials:
